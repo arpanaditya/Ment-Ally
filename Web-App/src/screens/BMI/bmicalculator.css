@@ -1,0 +1,71 @@
+.mainBMIsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    max-width: 1800px;
+    padding: 15px;
+}
+.BMIdetails{
+    max-width: 60vw;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.BMIinputs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 60vw;
+}
+
+.BMIinputs input{
+    max-width: 180px;
+    padding: 10px 4px;
+    font-size: 1.5rem;
+    margin: 10px;
+    background: transparent;
+    border: 2px solid #7b91f0c4;
+    border-radius: 10px;
+    text-align: center;  
+    outline: none;
+}
+.calculatebutton{
+    max-width: 180px;
+    padding: 10px 10px;
+    font-size: 1.5rem;
+    margin: 10px;
+    font-size: 1.5rem;
+    background: transparent;
+    border: 2px solid #7b91f0c4;
+    border-radius: 10px;
+    text-align: center;  
+    outline: none;
+    color: #000;
+    cursor: pointer;
+    transition: all 0.2s linear;
+}
+
+.calculatebutton:hover{
+    background-color:#7b91f0c4 ;
+    color: #000;
+}
+.BmiData{
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    max-width: 60vw;
+}
+
+@media only screen and (max-width:850px) {
+    .BMIdetails{
+        max-width: 100vw;
+    }
+    .BMIinputs input{
+        max-width: 100%;
+    }
+    
+}

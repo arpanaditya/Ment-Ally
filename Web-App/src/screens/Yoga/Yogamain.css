@@ -1,0 +1,55 @@
+.mainYogaSection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.common {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 50px;
+  max-width: 1600px;
+  padding: 15px;
+}
+.bar {
+  margin-left: -15px;
+}
+.details {
+  max-width: 60vw;
+}
+.details h1 {
+  font-size: 2.5rem;
+}
+.details h3 {
+  font-size: 1.5rem;
+  margin: 10px;
+}
+.details p {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #000000a6;
+  margin-left: 15px;
+}
+
+@media only screen and (max-width: 800px) {
+  .bar {
+    margin-left: 0px;
+  }
+  .mainYogaSection {
+    margin-bottom: 100px;
+  }
+  .common {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 15px;
+  }
+  .details {
+    max-width: 100vw;
+  }
+}

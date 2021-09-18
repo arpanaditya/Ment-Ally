@@ -1,0 +1,23 @@
+.message{
+    width: 100%;
+    height: 100vh;
+    background: rgb(159 158 158 / 20%);
+    backdrop-filter: blur( 7px );
+    -webkit-backdrop-filter: blur( 7px );
+    border-bottom: 1px solid #dfdfdf5b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    z-index: 10;
+    font-weight: bold;
+    font-size: 3rem;
+    top: 0;
+}
+@media only screen and (max-width:600px) {
+    .message{
+        font-size: 8vw;
+    }
+
+}

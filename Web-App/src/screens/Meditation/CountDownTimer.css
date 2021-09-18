@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+.inputTime{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    z-index:9;
+}
+.inputTime input{
+    max-width: 10vh;
+    padding: 10px 4px;
+    font-size: 1.5rem;
+    margin: 10px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    background: transparent;
+    border: 2px solid #7b91f0c4;
+    border-radius: 10px;
+    text-align: center;  
+    outline: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.minInput{
+    display: flex;
+    flex-direction: column;
+    
+}
+.minInput button{
+    padding-top:30px;
+    padding-bottom:30px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+} 
+.secInput button{
+    padding-top:30px;
+    padding-bottom:30px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+} 
+.secInput{
+    display: flex;
+    flex-direction: column;
+}
+.setBtn{
+    padding: 10px 10px;
+    font-size: 1.5rem;
+    margin:auto 10px;
+    background: transparent;
+    border: 2px solid #7b91f0c4;
+    border-radius: 10px;
+    text-align: center;  
+    cursor: pointer;
+    outline: none;
+    transition: all 0.2s linear;
+    color: #000;
+}
+.setBtn:hover{
+    background-color:#7b91f0c4 ;
+ 
+}
+.countdown{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    position: absolute;
+    font-size: 3rem;
+    z-index:9;
+}
+.countdown p{
+    font-family: 'Allison', cursive;
+    font-size: 4rem;
+}
+.timerActionBtn{
+    height: 4rem;
+    width: 4rem;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    border-radius: 50px;
+    outline: none;
+    margin: 3px;
+    transition: all 0.2s linear;
+}
+.timerActionBtn:hover{
+    background-color: #7b91f0;
+}
+
+@media only screen and (max-width: 630px) {
+    .inputTime input{
+        max-width: 7vh;
+        padding: 5px 4px;
+        font-size: 1.3rem;
+        margin: 8px;
+        margin-top: -20px;
+        margin-bottom: -20px;
+    }
+    .setBtn{
+        padding: 7px 10px;
+        margin:auto 10px;
+        font-size: 1.1rem;
+    }
+    .countdown{
+        font-size: 2rem;
+    }
+    .countdown p{
+        font-size: 3rem;
+        margin-top: -10px;
+    }
+    .timerActionBtn{
+        height: 3rem;
+        width: 3rem;
+    }
+}
+@media only screen and (max-width: 460px) {
+    .inputTime input{
+        max-width: 6vh;
+        padding: 3px 0px;
+        font-size: 1.2rem;
+        margin: 5px;
+        margin-top: -20px;
+         margin-bottom: -20px;
+    }
+    .secInput button{
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    .minInput button{
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    .setBtn{
+        padding: 4px 6px;
+        margin: auto 4px;
+        font-size: 1.1rem;
+    }
+    .timerActionBtn{
+        height: 1.8rem;
+        width: 1.8rem;
+    }
+    .countdown{
+        font-size: 1.5rem;
+    }
+    .countdown p{
+        font-size: 3rem;
+        margin-top: -10px;
+    }
+}

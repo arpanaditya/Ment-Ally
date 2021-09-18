@@ -1,0 +1,27 @@
+.mainMeditationBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.timerBack{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spotifyPlayer{
+  width: 600px;
+  height:450px;
+  box-shadow: 0px 8px 25px #1414149a;
+  margin: 10px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+@media only screen and (max-width: 600px) {
+  .spotifyPlayer{
+   position: relative;
+   bottom: 80px;
+  }
+
+}

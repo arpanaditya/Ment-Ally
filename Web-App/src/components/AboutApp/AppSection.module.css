@@ -1,0 +1,47 @@
+.content h1{
+    font-size: 70px;
+    margin-bottom: 20px;
+    color: black;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+    line-height: 65px;
+}
+.mainAppSection{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.mainAppSection img{
+    height: 550px;
+    width: 290px;
+}
+.App_Screen1,.App_Screen2,.App_Screen3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px 10px;
+}
+.content{
+   flex-basis: 700px;
+   font-size: 20px;
+   padding: 20px;
+   line-height: 30px;
+   color: rgba(44, 44, 44, 0.774);
+}
+.aboutContent{
+    font-size:1.1rem ;
+}
+.tabLink{
+    text-decoration: none;
+    font-weight: bolder;
+    color: #000000;
+}
+@media only screen and (max-width:1000px) {
+    .content h1{
+        font-size: 50px;
+        text-align: center;
+    }
+}
