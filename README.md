@@ -1,6 +1,7 @@
 <p align='center'><img src='https://raw.githubusercontent.com/arpanaditya/Ment-Ally/main/Web-App/public/favicon.ico' width="150"alt="Ment-Ally Logo" ></p>
 <h1 align='center'> Ment-Ally</h1>
 <h3 align="center">View at: https://ment-ally.xyz </h3>
+<h3 align="center"><a href="https://docs.google.com/presentation/d/1nulYHpQArnUjRhHjWhPXvC-IQZeCjpDq26V4w7HptIY/edit?usp=sharing">View the presentaton</a></h3>
 <h2>The problem it solves:relaxed: </h2>
 <p align='justify'>
 Nowadays, taking care of mental health is very essential. It aims to help people in dealing with mental health-related issues like stress, anxiety, depression, etc. You can’t tell whether a person is mentally dealing with stress or pressure by looking at that person. This can be sometimes very risky, leading to suicide. The study supports that in most cases depression and mental pressure are the main reasons for suicide. In the current pandemic situation, due to lockdown, we have witnessed increasing cases of suicide, anxiety, depression. So, we came up with “Ment-Ally” to help people to gain mental peace and stability. It has helpful blogs, a Meditation guide with relaxing music, Yoga, and BMI Tracker. A person can use these to keep himself/herself occupied when feeling sick mentally.
