@@ -97,18 +97,23 @@ The biggest accomplishment for us was that we learned so many things just in 36 
 We are a group of very enthusiastic developers who are open to learning and experimenting with new techs. The thing which is common among us is that we love hackathons 🤩. In this hackathon we learnt how to use VS-Code Liveshare smoothly. We have created blogs and with the help of API we fetched data from our database. We also have learnt how to connect and configure DNS of any custom domain to firebase project which was something very new for us. 
 
 ## Built With :hammer_and_wrench:
-- [ ] MERN Stack
-- [ ] Lottie Animation
-- [ ] Framer Motion
-- [ ] <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <!--React-->
+- [ ] <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"> <!--MongoDB-->
 - [ ] <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <!--Expressjs--> 
-- [ ] <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <!--NodeJs-->
-- [ ] <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <!--JavaScript-->
+- [ ] <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <!--React-->
+- [ ]  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <!--NodeJs-->
+- [ ] <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <!--React-Router-Dom-->
+- [ ]  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <!--JavaScript-->  
+- [ ] <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"><!--Npm-->
 - [ ] <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!--CSS3-->
-- [ ] <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <!--MongoDB-->
-- [ ] <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png"> <!--Mongoose-->
-- [ ] <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=blac"> <!--Firebase-->
+- [ ] <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" height="20"> <!--Mongoose-->
+- [ ] <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <!--Firebase-->
 - [ ] <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <!--Heroku-->
+- [ ]  <img src="https://user-images.githubusercontent.com/22095598/123793419-f5528800-d8e1-11eb-8c5f-e2dad45a9c81.png" width="16" height="16" /> Framer Motion <!--Farmer motion-->
+- [ ]  <img src="https://static.lottiefiles.com/images/v3/lottiefiles-logo.svg" height="25" ><!--Lottie Animation-->
+
+
+
+
   
  <h2>Team:sunglasses:<h2>
   <table>
