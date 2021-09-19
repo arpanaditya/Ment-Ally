@@ -155,5 +155,5 @@ We are a group of very enthusiastic developers who are open to learning and expe
       <a href="https://instagram.com/ankitsingh0702"><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></td></a>
 </tr>
 </table>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/75975428/133925369-4c74ea21-b5c6-46f3-9d1d-f1358fadee40.png"></p>
 <h3 align="center">Made with 💝 by Team Ment-Ally</h3>
