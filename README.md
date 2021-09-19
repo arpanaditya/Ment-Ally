@@ -43,7 +43,7 @@ npm install
 In order to run the application in development mode type the following command
 
 ```bash
-yarn dev
+npm start
 ```
 
 The Application Runs on **localhost:3000**
@@ -80,13 +80,6 @@ npm install mongodb
 ```
 
 Set up a [MongoDB Atlas Database](https://www.youtube.com/watch?v=rPqRyYJmx2g) by following this short MongoDB setup video till the *3:20* mark. Stop after that mark!
-
-On your Cluster home page, select CONNECT > Connect your application. 
-1. Select Node.js in the drop down for your driver, and select the latest version. 
-1. Then, copy the connecting string (URI).
-1. Paste this string as the value of mongoURI inside `.env` of this project.
-
-Replace the `<password>` section of the string with your Database Access password. Viola, your server should now successfuly connect to MongoDB!
 
 
 ## How we built it 🧠💻
