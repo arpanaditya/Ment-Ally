@@ -10,8 +10,9 @@ Nowadays, taking care of mental health is very essential. It aims to help people
 <p align='center'><img src='https://user-images.githubusercontent.com/75975428/133915610-4da4511e-a1f4-43ff-bc27-7898d03650f6.gif' alt="Home" ></p>
 <p align='center'><strong>Blog Section</strong></p>
 <p align='center'><img src='https://user-images.githubusercontent.com/75975428/133917403-5946ec7b-769f-4309-80a2-50658039911f.gif' alt="Blog" ></p>
-<p align='center'><strong>Meditation Section (replace this with meditation gif)</strong></p>
-<p align='center'><img src='https://user-images.githubusercontent.com/75975428/133917403-5946ec7b-769f-4309-80a2-50658039911f.gif' alt="Blog" ></p>
+<p align='center'><strong>Meditation Section</strong></p>
+<p align='center'><img src='https://user-images.githubusercontent.com/75975428/133921950-a81e7bbf-75a9-4279-8c00-0c5634f74787.gif' alt="Blog" ></p>
+
 <p align='center'><strong>Yoga Section</strong></p>
 <p align='center'><img src='https://user-images.githubusercontent.com/75975428/133917467-5f0cbd2d-4c86-41d1-ab75-94b55c869347.gif' alt="Blog" ></p>
 
