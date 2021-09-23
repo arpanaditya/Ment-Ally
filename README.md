@@ -111,7 +111,7 @@ We are a group of very enthusiastic developers who are open to learning and expe
 - [ ] <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" height="20"> <!--Mongoose-->
 - [ ] <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <!--Firebase-->
 - [ ] <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <!--Heroku-->
-- [ ]  <img src="https://user-images.githubusercontent.com/22095598/123793419-f5528800-d8e1-11eb-8c5f-e2dad45a9c81.png" width="16" height="16" /> Framer Motion <!--Farmer motion-->
+- [ ]  <img src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/><!--Farmer motion-->
 - [ ]  <img src="https://static.lottiefiles.com/images/v3/lottiefiles-logo.svg" height="25" ><!--Lottie Animation-->
 
 
