@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase": "^9.5.0",
+    "framer-motion": "^5.3.3",
+    "react-scripts": "^4.0.3",
+    "start": "^5.1.0"
+  }
+}

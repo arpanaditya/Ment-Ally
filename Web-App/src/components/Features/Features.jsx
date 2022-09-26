@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Features.module.css";
-import { motion } from "framer-motion";
+import { motion } from 'framer-motion/dist/es/index';
 import Lottie from "lottie-react";
 import sandclock from "../../animation/sandclock.json";
 import Ui from "../../animation/Ui.json";
@@ -19,6 +19,8 @@ function Features() {
         }
     }
   }
+
+  
   return (
   <>
     <div className={styles.middle}>
