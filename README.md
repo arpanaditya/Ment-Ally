@@ -35,7 +35,7 @@ npm install -g create-react-app
 
 Clone the project in localhost
 ```bash
-git clone https://github.com/Aniket762/playground.git
+git clone https://github.com/arpanaditya/Ment-Ally.git
 ```
 Install all the npm packages. Go into the web folder and type the following command to install all npm packages
 
